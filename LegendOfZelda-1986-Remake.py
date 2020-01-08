@@ -268,3 +268,4 @@ startButton = RegularPolygon(200,300,8,3,rotateAngle=90,fill='white')
 startLabel = Label('Start',200,317,fill='white')
 cursorPhoto = 'https://media.discordapp.net/attachments/554658343776682016/643525276516745256/actualcursorMini.png'
 cursor = Image(cursorPhoto,200,200)
+
