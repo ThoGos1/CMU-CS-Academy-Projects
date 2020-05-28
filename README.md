@@ -7,3 +7,6 @@ The Legend of Zelda 1986 first level remake: https://academy.cs.cmu.edu/sharing/
 
 Google Game: Snake remake: https://academy.cs.cmu.edu/sharing/lavenderBlushSnail9545
 
+Reverse Tetris Game: https://academy.cs.cmu.edu/sharing/goldenrodChicken4415
+
+Ball Drop Game (with realistic physics): https://academy.cs.cmu.edu/sharing/oldLacePig6919
